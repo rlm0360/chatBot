@@ -179,7 +179,7 @@ def main() -> None:
     # Create the Updater and pass it your bot's token.
     #test_bot_token 5088014861:AAFXKdqQQo7y4IpyFHKQB_isDf0mWWJa6dw
     #news_bot_toke 5098430589:AAHJkws6DDyv-GNoeHxSpv_svEu_a3cplz0
-    updater = Updater("5088014861:AAFXKdqQQo7y4IpyFHKQB_isDf0mWWJa6dw")
+    updater = Updater("5098430589:AAHJkws6DDyv-GNoeHxSpv_svEu_a3cplz0")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
