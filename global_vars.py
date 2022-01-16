@@ -2,7 +2,7 @@
 #test_bot_token 5088014861:AAFXKdqQQo7y4IpyFHKQB_isDf0mWWJa6dw
 #news_bot_toke 5098430589:AAHJkws6DDyv-GNoeHxSpv_svEu_a3cplz0
 
-bot_token = "5088014861:AAFXKdqQQo7y4IpyFHKQB_isDf0mWWJa6dw"
+bot_token = "5098430589:AAHJkws6DDyv-GNoeHxSpv_svEu_a3cplz0"
 chat_id_num = 5064819774
 weather_API = "45e549ff6ec4bb4ca9220bfd6eab0c28"
 
